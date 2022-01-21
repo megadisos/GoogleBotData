@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+/* Menu */
+
+.mainMenu {
+  background-color: #385cc7;
+}
+
+/* Contenedor para subir archivo */
+
