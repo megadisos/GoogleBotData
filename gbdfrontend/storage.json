@@ -219,6 +219,22 @@
                         "label": "&&Copy"
                     },
                     {
+                        "id": "submenuitem.20",
+                        "label": "Copy As",
+                        "submenu": {
+                            "items": [
+                                {
+                                    "id": "gitlens.copyRemoteFileUrlToClipboard",
+                                    "label": "Copy Remote File Url"
+                                },
+                                {
+                                    "id": "gitlens.copyRemoteFileUrlFrom",
+                                    "label": "Copy Remote File Url From..."
+                                }
+                            ]
+                        }
+                    },
+                    {
                         "id": "editor.action.clipboardPasteAction",
                         "label": "&&Paste"
                     },
